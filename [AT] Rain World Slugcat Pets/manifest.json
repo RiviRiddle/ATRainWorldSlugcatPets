@@ -1,0 +1,17 @@
+﻿{
+    "Name": "Alternative Textures Rain World Slugcat Pets",
+    "Author": "Libraries",
+    "Version": "1.0.0",
+    "Description": "Add slugcats from Rain World as Alternative Textures textures. (textures and original mod by Librareis, AT conversion by RiviRi)",
+    "UniqueID": "Libraries.ATRWSlugcatPets",
+    "UpdateKeys": [ "Nexus:22504" ],
+	"Dependencies": [
+    {
+        "UniqueID": "PeacefulEnd.AlternativeTextures",
+        "IsRequired": true
+    }
+],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+  }
+}
