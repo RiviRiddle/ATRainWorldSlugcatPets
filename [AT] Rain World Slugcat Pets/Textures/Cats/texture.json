@@ -2,6 +2,6 @@
   "ItemName": "Cat",
   "Type": "Character",
   "TextureWidth": 128,
-  "TextureHeight": 256,
+  "TextureHeight": 288,
   "Variations": 8
 }
